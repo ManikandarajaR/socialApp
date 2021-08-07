@@ -1,10 +1,7 @@
 //import './App.css';
-//import Navbar from './components/navbar';
-//import Button from './components/button';
+
 
 import React,{useState} from 'react';
-
-
 
 function App() {
 
